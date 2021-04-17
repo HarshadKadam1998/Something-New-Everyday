@@ -1,1 +1,0 @@
-AThis is an example for file reader or writer !!!JAVAThis is an example for f
